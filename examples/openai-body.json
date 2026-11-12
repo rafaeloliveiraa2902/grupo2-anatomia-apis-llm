@@ -1,0 +1,7 @@
+{
+  "model": "gpt-4.1-mini",
+  "instructions": "Responda em português, com clareza, em até 120 palavras. Use um exemplo de aplicação web.",
+  "input": "O que é uma API? Explique com um exemplo de aplicação web.",
+  "max_output_tokens": 600,
+  "store": false
+}

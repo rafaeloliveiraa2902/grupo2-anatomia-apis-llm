@@ -1,0 +1,11 @@
+{
+  "model": "claude-haiku-5-5",
+  "system": "Responda em português, com clareza, em até 120 palavras. Use um exemplo de aplicação web.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "O que é uma API? Explique com um exemplo de aplicação web."
+    }
+  ],
+  "max_tokens": 600
+}
